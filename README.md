@@ -32,4 +32,4 @@ This repository contains the backend code responsible for handling server-side l
 1. Clone the repository:
 
    ```bash
-   git clone <backend_repo_url>
+   git clone https://github.com/Samiul-Islam-123/introvert-server.git
